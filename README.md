@@ -4,7 +4,7 @@ This is a sample of how a crm should work in vue
 
 ## Homepage
 
-![blog](https://aviationexamkenya.com/profile/logpilot.png)
+![blog](https://aviationexamkenya.com/profile/blogpilot.png)
 
 ## Recommended IDE Setup
 
